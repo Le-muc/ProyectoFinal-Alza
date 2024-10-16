@@ -1,0 +1,14 @@
+[
+    { "id": 1, "nombre": "Blue", "precio": 100, "imagen": "images/blue.jpg" },
+    { "id": 2, "nombre": "Amaranth", "precio": 150, "imagen": "images/Amaranth.jpg" },
+    { "id": 3, "nombre": "Aqua Pastel", "precio": 200, "imagen": "images/aqua pastel.jpg" },
+    { "id": 4, "nombre": "Golden", "precio": 120, "imagen": "images/golden.jpg" },
+    { "id": 5, "nombre": "Green", "precio": 250, "imagen": "images/green.jpg" },
+    { "id": 6, "nombre": "Purple", "precio": 180, "imagen": "images/purple.jpg" },
+    { "id": 7, "nombre": "Red", "precio": 220, "imagen": "images/red.jpg" },
+    { "id": 8, "nombre": "Terra", "precio": 300, "imagen": "images/terra.jpg" },
+    { "id": 9, "nombre": "Orange", "precio": 220, "imagen": "images/orange.jpg" },
+    { "id": 10, "nombre": "Gren Pastel", "precio": 300, "imagen": "images/greenpastel.jpg" },
+    { "id": 11, "nombre": "Pink", "precio": 300, "imagen": "images/pink.jpg" },
+    { "id": 12, "nombre": "Sky Blue", "precio": 300, "imagen": "images/skyblue.jpg" }
+  ]
